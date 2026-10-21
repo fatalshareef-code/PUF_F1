@@ -1,0 +1,10 @@
+N=1024
+Q=1628161
+T=16384
+DELTA=99
+ETA=2
+R=3
+KEY_BYTES=32
+LEAF_PACKET_BYTES=38
+REFERENCE_AGGREGATE_BYTES=62
+DOMAIN_LABELS=('a','s','e','mac','tag','omega','theta','wrap','wraptag','chain','merkle')
